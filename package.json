@@ -8,5 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "g": "^2.0.1",
+    "inquirer": "^10.1.6",
+    "picocolors": "^1.0.1"
+  }
 }
